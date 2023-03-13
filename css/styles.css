@@ -30,6 +30,11 @@ header {
 }
 
 .language-level {
+	color: #000000;
+	border-color: #000000;
+}
+
+.language-name {
 	color: #ffffff;
 	border-color: #000000;
 }
