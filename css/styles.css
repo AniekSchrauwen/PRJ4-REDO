@@ -33,10 +33,10 @@ header {
 	color: #000000;}
 
 .bg-warning {
-    background-color: rgba(220,130,170)!important;
+    background-color: rgba(255,0,0,1.0)!important;
 }
 .border-info {
-	border-color: #ffffff;
+	border-color: rgba(0, 255, 0, 1.0);
 }
 
 
