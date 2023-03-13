@@ -29,6 +29,12 @@ header {
 	background-color: #E9D3C0;
 }
 
+.language-progress {
+	color: #ffffff;
+}
+
+
+
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
