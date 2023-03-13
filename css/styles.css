@@ -10,11 +10,15 @@ body {
 	color: #202020;
 	background-color: #FEFEFE;
 }
+header {
+	font-family: Lato;
+	color: #FFFFFF;
+}
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #A67A5E;
+    background-color: #DBC2AD;
 }
 
 .resume-main {
@@ -22,7 +26,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #FAf0DC;
+	background-color: #E9D3C0;
 }
 
 /* Styles for lists in the document */
