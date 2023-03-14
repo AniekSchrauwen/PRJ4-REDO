@@ -11,9 +11,8 @@ body {
 	background-color: #FEFEFE;
 }
 header {
-	font-family: fantasy;
+	font-family: monospace;
 	color: #FFFFFF;
-	letter-spacing: 10px;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
