@@ -6,12 +6,12 @@
 /* Styles for the body */
 
 body {
-	font-family: Avenir light
+	font-family: sans-serif;
 	color: #202020;
 	background-color: #FEFEFE;
 }
 header {
-	font-family: Avenir;
+	font-family: fantasy;
 	color: #FFFFFF;
 }
 
